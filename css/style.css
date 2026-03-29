@@ -20,7 +20,7 @@
 }
 
 body {
-    background: url('desk_bg.png') no-repeat center center fixed;
+    background: url('../images/desk_bg.png') no-repeat center center fixed;
     background-size: cover;
     color: var(--ink-color);
     font-family: var(--body-font);
@@ -421,7 +421,7 @@ body {
     left: 0;
     width: 100%;
     height: 100%;
-    background: #1a0802 url('desk_bg.png') no-repeat center center;
+    background: #1a0802 url('../images/desk_bg.png') no-repeat center center;
     background-size: cover;
     z-index: 2000;
     display: flex;
